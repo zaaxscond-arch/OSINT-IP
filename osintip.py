@@ -39,7 +39,7 @@ API_KEYS = {
     "ipinfo": "",        # Gratis, 50k req/bulan
     "ipapi": "",         # Gratis, 1000 req/hari (daftar di ip-api.com)
     "abstractapi": "",   # Gratis, 1000 req/bulan (daftar di abstractapi.com)
-    "shodan": "",        # Gratis limited (daftar di shodan.io)
+    "shodan": "",        # IMKFEHvkyoNHnEWI9yORH1S9AuUGeJfQ
 }
 
 # ============== FUNGSI UTAMA ==============
